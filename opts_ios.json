@@ -6,6 +6,6 @@
     "deviceName": "iPhone 8",
     "automationName": "XCUITest",
     "autoWebview": true,
-    "app": "platforms/ios/build/emulator/cordova-showcase-template.app"
+    "app": "platforms/ios/build/emulator/AeroGear Cordova Showcase.app"
   }
 }
