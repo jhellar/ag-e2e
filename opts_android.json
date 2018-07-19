@@ -5,6 +5,7 @@
     "platformVersion": "8",
     "deviceName": "Android Emulator",
     "autoWebview": true,
-    "app": "platforms/android/app/build/outputs/apk/debug/app-debug.apk"
+    "app": "platforms/android/app/build/outputs/apk/debug/app-debug.apk",
+    "chromedriverExecutableDir": "/Users/jenkins/chromedrivers"
   }
 }
