@@ -1,0 +1,11 @@
+{
+  "port": 4723,
+  "desiredCapabilities": {
+    "platformName": "iOS",
+    "platformVersion": "11.3",
+    "deviceName": "iPhone 8",
+    "automationName": "XCUITest",
+    "autoWebview": true,
+    "app": "platforms/ios/build/emulator/cordova-showcase-template.app"
+  }
+}
